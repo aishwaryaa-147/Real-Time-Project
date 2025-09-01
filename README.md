@@ -1,4 +1,6 @@
 REAL TIME PROJECT
+
+
 1.1 Overview of FAKE IMAGE/VIDEO DETECTION
      The Fake Image/Video Detection Model addresses the urgent challenge of identifying manipulated visual content in today's digital landscape. By focusing on combating deepfakes and enhancing media credibility, the project aims to foster transparency and trust in digital visual content. It serves practical applications across various sectors, including media forensics, journalism, and digital content verification. Ultimately, the Fake Image/Video Detection Model contributes to the ongoing efforts to uphold integrity in digital communications and mitigate the proliferation of misinformation in the digital age. 
 1.2 Importance of Detection Model
